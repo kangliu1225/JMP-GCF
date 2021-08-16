@@ -1,5 +1,5 @@
 # JMP-GCF
-Joint Multi-grained Popularity-aware Graph Convolution Collaborative Filtering for Recommendation
+## Joint Multi-grained Popularity-aware Graph Convolution Collaborative Filtering for Recommendation
 
 ![framework of JMP-GCF](model.jpg)
 
