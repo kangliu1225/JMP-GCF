@@ -1,7 +1,7 @@
 # JMP-GCF
 Joint Multi-grained Popularity-aware Graph Convolution Collaborative Filtering for Recommendation
 
-![framework of JMP-GCF](figure/model.jpg)
+![framework of JMP-GCF](model.pdf)
 
 
 Graph Convolution Networks (GCNs), with their efficient ability to capture high-order connectivity in graphs, have been widely applied in recommender systems. 
