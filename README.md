@@ -1,4 +1,5 @@
 # JMP-GCF
+Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730040
 ## Joint Multi-grained Popularity-aware Graph Convolution Collaborative Filtering for Recommendation
 
 ![framework of JMP-GCF](model.jpg)
