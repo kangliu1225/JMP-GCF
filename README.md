@@ -19,6 +19,8 @@ We provide tensorflow implementation for JMP-GCF.
 
 ## Citation
 If our code is useful to you, please cite:
+
+
 @ARTICLE{jmpgcf,  
 author={Liu, Kang and Xue, Feng and He, Xiangnan and Guo, Dan and Hong, Richang},  
 journal={IEEE Transactions on Computational Social Systems},   
