@@ -11,8 +11,21 @@ In this work, we propose to model multi-grained popularity features and jointly 
 
 We provide tensorflow implementation for JMP-GCF.
 
-## prerequisites
+## Prerequisites
 
 - Tensorflow 1.10.0
 - Python 3.5
 - NVIDIA GPU + CUDA + CuDNN
+
+## Citation
+If our code is useful to you, please cite:
+@ARTICLE{jmpgcf,  
+author={Liu, Kang and Xue, Feng and He, Xiangnan and Guo, Dan and Hong, Richang},  
+journal={IEEE Transactions on Computational Social Systems},   
+title={Joint Multi-Grained Popularity-Aware Graph Convolution Collaborative Filtering for Recommendation},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-12},  
+doi={10.1109/TCSS.2022.3151822}
+}
