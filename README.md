@@ -18,8 +18,8 @@ We provide tensorflow implementation for JMP-GCF.
 - Python 3.5
 - NVIDIA GPU + CUDA + CuDNN
 
-## Citation
-:satisfied: If our paper and code are useful to you, please cite:
+## Citation :satisfied:
+If our paper and code are useful to you, please cite:
 
 
 @ARTICLE{jmpgcf,  
