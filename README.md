@@ -19,7 +19,7 @@ We provide tensorflow implementation for JMP-GCF.
 - NVIDIA GPU + CUDA + CuDNN
 
 ## Citation
-If our code is useful to you, please cite:
+:satisfied: If our paper and code are useful to you, please cite:
 
 
 @ARTICLE{jmpgcf,  
